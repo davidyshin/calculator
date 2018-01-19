@@ -185,8 +185,8 @@ class Calculator extends React.Component {
         </div>
         <a
           href="https://github.com/davidyshin/calculator"
-          id="git-icon"
           className="fa fa-github fa-3x"
+          id="git-icon"
         />
       </div>
     );

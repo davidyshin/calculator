@@ -9,6 +9,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  padding-top: 30%;
 }
 input.display {
   -webkit-appearance: none;
