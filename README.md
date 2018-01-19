@@ -6,12 +6,12 @@ evaluations, and React, HTML/CSS to bring it to life on the browser
 
 ## Features
 
-* on-Click event listeners for each button for numbers and operators that will return simple arithmetic evaluations.
+on-Click event listeners for each button for numbers and operators that will return simple arithmetic evaluations.
 
 ![screenshot](./public/screenshot.png)
 
-* Allows key press functionality allowing the calculator to be used with just a keyboard.
-  ![preview](./public/preview1.gif)
+Allows key press functionality allowing the calculator to be used with just a keyboard.
+![preview](./public/preview1.gif)
 
 ## Built using:
 
