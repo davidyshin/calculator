@@ -161,7 +161,7 @@ class Calculator extends React.Component {
             ac
           </button>
           <button className="calc-key" key="sign" onClick={this.toggleSign}>
-            +-
+            ±
           </button>
           <button className="calc-key" key="delete" onClick={this.delete}>
             Del
@@ -183,6 +183,11 @@ class Calculator extends React.Component {
             </button>
           ))}
         </div>
+        <a
+          href="https://github.com/davidyshin/"
+          id="git-icon"
+          className="fa fa-github fa-3x"
+        />
       </div>
     );
   }

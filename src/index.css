@@ -36,3 +36,19 @@ input.display {
   width: 202px;
   flex-wrap: wrap;
 }
+
+#git-icon {
+  display: flex;
+  padding-top: 5px;
+  justify-content: center;
+  align-content: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: black;
+}
